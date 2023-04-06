@@ -1,0 +1,48 @@
+ <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+<body>
+    <div class="1">
+        <h1 class="F">NETFLIX</h1>
+        <h2 class="A"><b>sign in</b></h2>
+        <form>
+           <input type="text" placeholder="Email or phone mumber" id="email or phone number">
+           <br>
+           <br>
+           <input type="text" placeholder="Password" id="password">
+           <br>
+           <br>
+           <button> sign in</button>
+           <br>
+           <br>
+           </form>
+    </div>
+    <div class="W">
+           <input type="checkbox" name="#" id="id"><b>remember me</b>
+            </div>
+        <p class="C">need help?</p>
+        <ul class="Z">
+            <li> New ro netflix </li>
+            <li> sign up now </li>
+        </ul>
+        </p>
+               <p>This page is protected by google reCAPTCHA to ensure you're not a robot.<b>learn more</b></p>   
+       </div>
+       <hr>
+       <footer>
+           <p>questions?Contact us</p>
+           <div class="E"></div>
+           <ul>
+           <li>FAQ</li>
+           <li>Help center</li>
+           </ul>
+           </div>
+       </footer
+    </body>
+    
+</html>
